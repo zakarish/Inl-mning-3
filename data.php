@@ -25,7 +25,7 @@
                     echo "wlcome to mohammed: $user";
                     header("location:file.php?uploadsuccess");
                 } else {
-                    echo "incorrect username or password, walk the plank";
+                    echo "incorrect username or password,shush man";
                 }
             }
             ?>
